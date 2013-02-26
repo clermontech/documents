@@ -30,7 +30,7 @@ La durée de l’association est illimitée.
 L'association se compose de membres actifs ou adhérents :
 
 * Président : Julien Maupetit
-* Vice président : Julien Mouetton
+* Vice président : Julien Muetton
 * Trésorier : Pierre Tachoire
 * Trésorier suppléant : William Durand
 * Secrétaire : Manuel Raynaud
