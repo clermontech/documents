@@ -18,9 +18,9 @@ Cette association a pour objet de fédérer les développeurs auvergnats.
 
 ## ARTICLE 3 - SIEGE SOCIAL
 
-Le siège social est fixé au 4 rue nationale 63110 BEAUMONT
+Le siège social est fixé au : **4 rue nationale 63110 BEAUMONT**
 
-Il pourra être transféré par simple décision du conseil d'administration ;
+Il pourra être transféré par simple décision du conseil d'administration.
 
 
 ## Article 4 - DUREE
@@ -32,9 +32,12 @@ La durée de l’association est illimitée.
 
 L'association se compose de membres actifs ou adhérents :
 
-* Président : Julien Maupetit * Vice président : Julien Muetton * Trésorier :
-Pierre Tachoire * Trésorier suppléant : William Durand * Secrétaire : Manuel
-Raynaud * Secrétaire suppléant : Jean-Philippe Serafin
+* Président : Julien Maupetit
+* Vice président : Julien Muetton
+* Trésorier : Pierre Tachoire
+* Trésorier suppléant : William Durand
+* Secrétaire : Manuel Raynaud
+* Secrétaire suppléant : Jean-Philippe Serafin
 
 
 ## ARTICLE 6 - ADMISSION
@@ -54,9 +57,11 @@ l’association. Il n’y a pas de cotisation.
 
 La qualité de membre se perd par :
 
-* La démission; * Le décès; * La radiation prononcée par le conseil
-d'administration pour motif grave, l'intéressé ayant été invité par lettre
-recommandée à fournir des explications devant le bureau et/ou par écrit.
+* La démission;
+* Le décès;
+* La radiation prononcée par le conseil d'administration pour motif grave,
+l'intéressé ayant été invité par lettre recommandée à fournir des explications
+devant le bureau et/ou par écrit.
 
 
 ## ARTICLE 9 - AFFILIATION
@@ -68,9 +73,10 @@ du conseil d’administration.
 
 ## ARTICLE 10 - RESSOURCES
 
-Les ressources de l'association comprennent : 1. Les subventions de l'Etat, des
-départements et des communes. 2. Toutes les ressources autorisées par les lois
-et règlements en vigueur.
+Les ressources de l'association comprennent :
+
+1. Les subventions de l'Etat, des départements et des communes.
+2. Toutes les ressources autorisées par les lois et règlements en vigueur.
 
 
 ## ARTICLE 11 - ASSEMBLEE GENERALE ORDINAIRE
@@ -137,8 +143,10 @@ consécutives sera considéré comme démissionnaire.
 
 Le conseil d'administration élit parmi ses membres, un bureau composé de :
 
-* Un président; * Un vice-président; * Un secrétaire et un secrétaire adjoint; *
-Un trésorier et un trésorier adjoint.
+* Un président;
+* Un vice-président;
+* Un secrétaire et un secrétaire adjoint;
+* Un trésorier et un trésorier adjoint.
 
 
 ## ARTICLE 15 – INDEMNITES
