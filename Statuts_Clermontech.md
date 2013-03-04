@@ -145,8 +145,8 @@ Le conseil d'administration élit parmi ses membres, un bureau composé de :
 
 * Un président ;
 * Un vice-président ;
-* Un secrétaire et un secrétaire adjoint ;
-* Un trésorier et un trésorier adjoint.
+* Un secrétaire et un secrétaire suppléant ;
+* Un trésorier et un trésorier suppléant.
 
 
 ## ARTICLE 15 – INDEMNITES
