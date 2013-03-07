@@ -8,7 +8,7 @@ auvergnats.
 Les missions de l'association sont :
 
 * promouvoir les technologies et métiers gravitant autour du développement
-  d'applications (web)
+  d'applications
 * organiser des rencontres mensuelles - les APIHours - qui réuniront les
   développeurs locaux autour d'une série de conférences courtes (4 * 15 minutes)
 
