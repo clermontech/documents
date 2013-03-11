@@ -35,4 +35,4 @@ n'entache pas les règles énoncées dans le présent manifeste.
 Les APIHours ne doivent pas être le lieu de débats trollifères autour des
 technologies que nous portons dans nos cœurs. Chaque intervenant doit être
 traité avec le respect qui lui est dû. Tout manquement à cette règle entraînera
-l'exclusion immédiate du trolleur.
+une exclusion immédiate.
