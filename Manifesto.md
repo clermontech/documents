@@ -36,3 +36,9 @@ Les APIHours ne doivent pas être le lieu de débats trollifères autour des
 technologies que nous portons dans nos cœurs. Chaque intervenant doit être
 traité avec le respect qui lui est dû. Tout manquement à cette règle entraînera
 une exclusion immédiate.
+
+### Partage
+
+L'assocation oeuvre pour le partage. Les APIHours sont un lieu d'échange des
+connaissances. Dans la mesure du possible, Les conférences seront diffusées
+publiquement sur Internet.
