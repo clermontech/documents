@@ -22,10 +22,13 @@ développeur du monde moderne.
 
 ### Indépendance
 
+Clermont'ech est indépendante de toute organisation publique ou privée.
+
 Clermont'ech ne se verra jamais dicter sa ligne éditoriale par des tiers
-extérieurs à l'association. Nous acceptons volontiers de nous plier au règles du
-sponsoring à partir du moment où la contrepartie n'entache pas les règles
-énoncées dans le présent manifeste.
+extérieurs à l'association.
+
+Clermont'ech accepte le sponsoring à partir du moment où la contrepartie
+n'entache pas les règles énoncées dans le présent manifeste.
 
 ### Respect
 
