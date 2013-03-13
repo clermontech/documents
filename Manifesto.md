@@ -50,7 +50,7 @@ sujet. Chaque personne peut déposer plusieurs talks.
 
 Le mode de proposition est l'envoi d'un descriptif du talk, éventuellement
 accompagné des slides, dans un nouveau sujet de la [mailing list de
-l'association](clermontech@googlegroups.com).
+l'association](https://groups.google.com/forum/?fromgroups=#!forum/clermontech).
 
 Une discussion pourra être engagée entre le déposant et les membres de la
 mailing list afin de discuter de la proposition.
