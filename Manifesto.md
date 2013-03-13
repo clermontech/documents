@@ -42,3 +42,24 @@ une exclusion immédiate.
 L'assocation oeuvre pour le partage. Les APIHours sont un lieu d'échange des
 connaissances. Dans la mesure du possible, les conférences seront diffusées
 publiquement sur Internet.
+
+## Proposition de talks
+
+Tout le monde est libre de proposer un talk à Clermont'ech, sans limite de
+sujet. Chaque personne peut déposer plusieurs talks.
+
+Le mode de proposition est l'envoi d'un descriptif du talk, éventuellement
+accompagné des slides, dans un nouveau sujet de la [mailing list de
+l'association](https://groups.google.com/forum/?fromgroups=#!forum/clermontech).
+
+Une discussion pourra être engagée entre le déposant et les membres de la
+mailing list afin de discuter de la proposition.
+
+A l'issue de la discussion, la proposition de talk est soumise au vote exclusif des
+membres de l'association Clermont'ech.
+
+Un talk sera sélectionné à condition qu'il recueuille une majorité des suffrages
+de l'ensemble des membres des l'association.
+
+En dernier lieu, le président de Clermont'ech aura le pouvoir de trancher une
+décision.
