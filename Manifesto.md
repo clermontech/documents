@@ -28,7 +28,7 @@ Clermont'ech ne se verra jamais dicter sa ligne éditoriale par des tiers
 extérieurs à l'association.
 
 Clermont'ech accepte le sponsoring à partir du moment où la contrepartie
-n'entache pas les règles énoncées dans le présent manifeste.
+n'entâche pas les règles énoncées dans le présent manifeste.
 
 ### Respect
 
@@ -40,5 +40,5 @@ une exclusion immédiate.
 ### Partage
 
 L'assocation oeuvre pour le partage. Les APIHours sont un lieu d'échange des
-connaissances. Dans la mesure du possible, Les conférences seront diffusées
+connaissances. Dans la mesure du possible, les conférences seront diffusées
 publiquement sur Internet.
