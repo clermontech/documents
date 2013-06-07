@@ -25,6 +25,24 @@ p {
   text-align: justify;
 }
 
+address {
+  .fn { font-weight:bold; }
+  .street-address {}
+  .postal-code {}
+  .city {}
+}
+
+.date {
+  padding: 20px 0;
+  clear: both;
+  text-align: right;
+}
+
+.signature {
+  margin-top: 30px;
+  text-align: right;
+}
+
 body {
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   font-weight: normal;
