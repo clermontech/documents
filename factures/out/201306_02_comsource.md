@@ -35,7 +35,7 @@ Montant : **200 euros**.
 TVA non applicable, article 293 B du Code général des impôts.
 
 
-## Réglement
+## Règlement
 
 Le règlement est attendu à reception de la facture, par chèque à l'ordre de **Clermont'ech** ou par virement aux coordonnées bancaires suivantes :
 
