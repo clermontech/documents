@@ -1,5 +1,7 @@
 <p class="invoice-number">Facture n°201306_02_comsource</p>
 
+<img class="left" width="70px" src="http://clermontech.org/images/clermontech_logo_200px.png" alt="Clermontech Logo" />
+
 <p class="address-us">
 <span class="address-title">Clermont'ech</span>
 <span class="address-street">4 rue nationale</span>
@@ -26,8 +28,7 @@ date de la facture.
 
 * Présence d'un logo et d'un lien sur le site Internet de l'association;
 * Remerciement et affichage du logo lors de chaque API Hour;
-* Distribution possible de goodies, flyers, et autres supports de communication
-  aux participants;
+* Distribution possible de goodies, flyers, et autres supports de communication aux participants;
 
 Montant : **200 euros**.
 
@@ -36,8 +37,7 @@ TVA non applicable, article 293 B du Code général des impôts.
 
 ## Réglement
 
-Le règlement est attendu à reception de la facture, par chèque à l'ordre de
-**Clermont'ech** ou par virement aux coordonnées bancaires suivantes :
+Le règlement est attendu à reception de la facture, par chèque à l'ordre de **Clermont'ech** ou par virement aux coordonnées bancaires suivantes :
 
 	RIB : 15589 63638 05101370840 86
 	Domiciliation : CCM BEAUMONT
