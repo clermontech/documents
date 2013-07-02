@@ -21,8 +21,12 @@
 | 18/06/2013 | Stickermule stickers                    |    123.77 |           |
 |            | (fact in/201306_01_strickermule)        |           |           |
 | 20/06/2013 | Spreadshirt tee-shirts                  |     37.70 |           |
+|            | (fact in/201306_02_spreadshirt)         |           |           |
+| 01/07/2013 | Sponsoring OpenStudio                   |           |    200.00 |
+|            | (fact out/201306_03_openstudio)         |           |           |
+| 20/06/2013 | Frais douanes - stickers                |     41.00 |           |
 |            | (fact in/)                              |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
-|            |                                   Total |    212.47 |    660.00 |
-|            |                                   Solde |                447.53 |
+|            |                                   Total |    253.47 |    860.00 |
+|            |                                   Solde |                606.53 |
 ```
