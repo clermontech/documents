@@ -28,7 +28,11 @@
 |            | (fact in/)                              |           |           |
 | 04/07/2013 | Aperitif APIHour#3 - Celtill            |     80.00 |           |
 |            | (fact in/)                              |           |           |
+| 09/07/2013 | Sponsoring Human Booster                |           |    600.00 |
+|            | (fact out/201306_04_humanbooster)       |           |           |
+| 19/07/2013 | Sponsoring Agaetis                      |           |    200.00 |
+|            | (fact out/201307_01_agaetis)            |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
-|            |                                   Total |    333.47 |    860.00 |
-|            |                                   Solde |                526.53 |
+|            |                                   Total |    333.47 |   1660.00 |
+|            |                                   Solde |               1326.53 |
 ```
