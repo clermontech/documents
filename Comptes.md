@@ -28,6 +28,7 @@
 |            | (fact in/)                              |           |           |
 | 04/07/2013 | Aperitif APIHour#3 - Celtill            |     80.00 |           |
 |            | (fact in/)                              |           |           |
+|            | (cheque #7038802)                       |           |           |
 | 09/07/2013 | Sponsoring Human Booster                |           |    600.00 |
 |            | (fact out/201306_04_humanbooster)       |           |           |
 | 19/07/2013 | Sponsoring Agaetis                      |           |    200.00 |
