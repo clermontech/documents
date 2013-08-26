@@ -27,7 +27,7 @@
 | 20/06/2013 | Frais douanes - stickers                |     41.00 |           |
 |            | (fact in/)                              |           |           |
 | 04/07/2013 | Aperitif APIHour#3 - Celtill            |     80.00 |           |
-|            | (fact in/)                              |           |           |
+|            | (fact in/201307_01_celtill.pdf)         |           |           |
 |            | (cheque #7038802)                       |           |           |
 | 09/07/2013 | Sponsoring Human Booster                |           |    600.00 |
 |            | (fact out/201306_04_humanbooster)       |           |           |
