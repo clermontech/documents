@@ -34,13 +34,13 @@
 | 19/07/2013 | Sponsoring Agaetis                      |           |    200.00 |
 |            | (fact out/201307_01_agaetis)            |           |           |
 | 28/08/2013 | Amazon Videoprojecteur                  |    259.12 |           |
-|            | (fact in/201309_01_amazon)              |           |           |
+|            | (fact in/201308_01_amazon)              |           |           |
 | 30/08/2013 | Comsource cartes de visite              |    124.62 |           |
 |            | (fact in/201308_02_comsource            |           |           |
 | 04/09/2013 | Amazon Cable VGA                        |     15.00 |           |
-|            | (fact in/201309_02_amazon)              |           |           |
+|            | (fact in/201309_01_amazon)              |           |           |
 | 04/09/2013 | Spreadshirt tee-shirts                  |    120.60 |           |
-|            | (fact in/201309_03_spreadshirt)         |           |           |
+|            | (fact in/201309_02_spreadshirt)         |           |           |
 | 04/09/2013 | Aperitif APIHour#4 - Leclerc            |     61.00 |           |
 |            | (fact in/)                              |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
