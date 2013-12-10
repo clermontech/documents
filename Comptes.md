@@ -42,7 +42,7 @@
 | 04/09/2013 | Spreadshirt tee-shirts                  |    120.60 |           |
 |            | (fact in/201309_02_spreadshirt)         |           |           |
 | 04/09/2013 | Aperitif APIHour#4 - Leclerc            |     61.00 |           |
-|            | (fact in/)                              |           |           |
+|            | (fact in/201309_03_leclerc)             |           |           |
 | 21/10/2013 | Stickermule stickers                    |    127.67 |           |
 |            | (fact in/201310_01_stickermule)         |           |           |
 | 24/10/2013 | Frais douanes - sticker                 |     37.74 |           |
