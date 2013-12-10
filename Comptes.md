@@ -44,9 +44,9 @@
 | 04/09/2013 | Aperitif APIHour#4 - Leclerc            |     61.00 |           |
 |            | (fact in/)                              |           |           |
 | 21/10/2013 | Stickermule stickers                    |    127.67 |           |
-|            | (fact in/)                              |           |           |
+|            | (fact in/201310_01_stickermule)         |           |           |
 | 24/10/2013 | Frais douanes - sticker                 |     37.74 |           |
-|            | (fact in/)                              |           |           |
+|            | (fact in/201310_01_stickermule_duty)    |           |           |
 | 26/10/2013 | Sponsoring Overscan                     |           |    300.00 |
 |            | (fact out/201310_01_overscan)           |           |           |
 | 10/12/2013 | Choco World chocolats                   |    106.00 |           |
