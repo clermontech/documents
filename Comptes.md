@@ -66,6 +66,12 @@
 | 01/01/2014 | Report solde 2013                       |           |    674.78 |
 | 13/01/2014 | Stickermule stickers                    |    163.49 |           |
 |            | (fact in/201401_01_stickermule.pdf)     |           |           |
+| 20/01/2014 | Alwaysdata nom de domaine               |     22.00 |           |
+|            | (fact in/201401_02_alwaysdata.pdf)      |           |           |
+| 22/01/2014 | Sponsoring Github                       |           |    362.62 |
+|            | (fact out/201401_01_github.pdf)         |           |           |
+| 24/01/2014 | Frais de poste - voeux 2014             |      6.00 |           |
+| 25/01/2014 | Frais de poste - voeux 2014             |     13.41 |           |
 |-----------:|-----------------------------------------|----------:|----------:|
-|            |                                   Total |   163.49  |    674.78 |
-|            |                                   Solde |                511.29 |
+|            |                                   Total |   201.90  |   1037.40 |
+|            |                                   Solde |                832.50 |
