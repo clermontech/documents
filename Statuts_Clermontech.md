@@ -165,6 +165,8 @@ ou plusieurs liquidateurs sont nommés, et l'actif, s'il y a lieu, est dévolu
 conformément aux décisions de l’assemblée générale extraordinaire qui statue sur
 la dissolution.
 
+---
 
-*Fait à Clermont-Ferrand, le 21 Février 2013.*
+- *Créé le 21 Février 2013 à Clermont-Ferrand;*
+- *Modifié le 6 Février 2014 à Clermont-Ferrand.*
 
