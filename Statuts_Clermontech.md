@@ -18,7 +18,7 @@ Cette association a pour objet de fédérer les développeurs auvergnats.
 
 ## ARTICLE 3 - SIEGE SOCIAL
 
-Le siège social est fixé au : **4 rue nationale 63110 BEAUMONT**.
+Le siège social est fixé au : **4 allée des Coteaux 63110 BEAUMONT**.
 
 Il pourra être transféré par simple décision du conseil d'administration.
 
