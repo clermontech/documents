@@ -27,7 +27,7 @@
 | 20/06/2013 | Frais douanes - stickers                |     41.00 |           |
 |            | (fact in/)                              |           |           |
 | 04/07/2013 | Aperitif APIHour#3 - Celtill            |     80.00 |           |
-|            | (fact in/201307_01_celtill.pdf)         |           |           |
+|            | (fact in/201307_01_celtill)             |           |           |
 |            | (cheque #7038802)                       |           |           |
 | 09/07/2013 | Sponsoring Human Booster                |           |    600.00 |
 |            | (fact out/201306_04_humanbooster)       |           |           |
@@ -52,7 +52,7 @@
 | 10/12/2013 | Choco World chocolats                   |    106.00 |           |
 |            | (fact in/201312_01_chocoworld)          |           |           |
 | 17/12/2013 | Aperitif APIHour#6 - Celtill            |    100.00 |           |
-|            | (fact in/201312_02_celtill.pdf)         |           |           |
+|            | (fact in/201312_02_celtill)             |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
 |            |                                   Total |   1285.22 |   1960.00 |
 |            |                                   Solde |                674.78 |
@@ -65,15 +65,15 @@
 |-----------:|-----------------------------------------|----------:|----------:|
 | 01/01/2014 | Report solde 2013                       |           |    674.78 |
 | 13/01/2014 | Stickermule stickers                    |    163.49 |           |
-|            | (fact in/201401_01_stickermule.pdf)     |           |           |
+|            | (fact in/201401_01_stickermule)         |           |           |
 | 20/01/2014 | Alwaysdata nom de domaine               |     22.00 |           |
-|            | (fact in/201401_02_alwaysdata.pdf)      |           |           |
+|            | (fact in/201401_02_alwaysdata)          |           |           |
 | 22/01/2014 | Sponsoring Github                       |           |    362.62 |
-|            | (fact out/201401_01_github.pdf)         |           |           |
+|            | (fact out/201401_01_github)             |           |           |
 | 24/01/2014 | Frais de poste - voeux 2014             |      6.00 |           |
 | 25/01/2014 | Frais de poste - voeux 2014             |     13.41 |           |
 | 19/02/2014 | Fcl Creations - mugs                    |    199.80 |           |
-|            | (fact in/201402_01_fclcreations.pdf)    |           |           |
+|            | (fact in/201402_01_fclcreations)        |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
 |            |                                   Total |   404.70  |   1037.40 |
 |            |                                   Solde |                632.70 |
