@@ -71,9 +71,15 @@
 | 22/01/2014 | Sponsoring Github                       |           |    362.62 |
 |            | (fact out/201401_01_github)             |           |           |
 | 24/01/2014 | Frais de poste - voeux 2014             |      6.00 |           |
+|            | (fact in/)                              |           |           |
+| 04/02/2014 | Frais CMMC - virement int (github)      |     14.50 |           |
 | 25/01/2014 | Frais de poste - voeux 2014             |     13.41 |           |
 | 19/02/2014 | Fcl Creations - mugs                    |    199.80 |           |
 |            | (fact in/201402_01_fclcreations)        |           |           |
+| 24/02/2014 | Leclerc Traiteur - buffet apihour#7     |    131.00 |           |
+|            | (fact in/)                              |           |           |
+| 26/02/2014 | Leclerc - buffet apihour#7              |    144.27 |           |
+|            | (fact in/)                              |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
-|            |                                   Total |   404.70  |   1037.40 |
-|            |                                   Solde |                632.70 |
+|            |                                   Total |   694.47  |   1037.40 |
+|            |                                   Solde |                342.93 |
