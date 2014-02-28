@@ -78,8 +78,10 @@
 |            | (fact in/201402_01_fclcreations)        |           |           |
 | 24/02/2014 | Leclerc Traiteur - buffet apihour#7     |    131.00 |           |
 |            | (fact in/)                              |           |           |
+| 25/02/2014 | Jarrige - Pâte d'amande logo            |     10.00 |           |
+|            | (fact in/)                              |           |           |
 | 26/02/2014 | Leclerc - buffet apihour#7              |    144.27 |           |
 |            | (fact in/)                              |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
-|            |                                   Total |   694.47  |   1037.40 |
-|            |                                   Solde |                342.93 |
+|            |                                   Total |   704.47  |   1037.40 |
+|            |                                   Solde |                332.93 |
