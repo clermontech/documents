@@ -87,7 +87,7 @@
 | 28/03/2014 | Sponsoring Coffreo                      |           |    200.00 |
 |            | (fact out/201309_01_viastorage)         |           |           |
 | 21/05/2014 | Spreadshirt tee-shirts                  |    220.10 |           |
-|            | (fact in/)                              |           |           |
+|            | (fact in/201405_01_spreadshirt)         |           |           |
 | 23/05/2014 | Leclerc Traiteur - buffet apihour#8     |    165.80 |           |
 |            | (fact in/201405_02_leclerc)             |           |           |
 | 28/05/2014 | Leclerc - buffet apihour#8              |     16.93 |           |
