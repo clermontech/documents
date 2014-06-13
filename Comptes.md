@@ -88,9 +88,9 @@
 |            | (fact out/201309_01_viastorage)         |           |           |
 | 21/05/2014 | Spreadshirt tee-shirts                  |    220.10 |           |
 |            | (fact in/201405_01_spreadshirt)         |           |           |
-| 23/05/2014 | Leclerc Traiteur - buffet apihour#8     |    165.80 |           |
+| 23/05/2014 | Leclerc Traiteur - buffet apihour#9     |    165.80 |           |
 |            | (fact in/201405_02_leclerc)             |           |           |
-| 28/05/2014 | Leclerc - buffet apihour#8              |     16.93 |           |
+| 28/05/2014 | Leclerc - buffet apihour#9              |     16.93 |           |
 |            | (fact in/201405_03_leclerc)             |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
 |            |                                   Total |  1107.30  |   1737.40 |
