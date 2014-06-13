@@ -71,23 +71,27 @@
 | 22/01/2014 | Sponsoring Github                       |           |    362.62 |
 |            | (fact out/201401_01_github)             |           |           |
 | 24/01/2014 | Frais de poste - voeux 2014             |      6.00 |           |
-|            | (fact in/)                              |           |           |
+|            | (fact in/201401_03_poste)               |           |           |
 | 04/02/2014 | Frais CMMC - virement int (github)      |     14.50 |           |
 | 25/01/2014 | Frais de poste - voeux 2014             |     13.41 |           |
 | 19/02/2014 | Fcl Creations - mugs                    |    199.80 |           |
 |            | (fact in/201402_01_fclcreations)        |           |           |
 | 24/02/2014 | Leclerc Traiteur - buffet apihour#7     |    131.00 |           |
-|            | (fact in/)                              |           |           |
+|            | (fact in/201402_02_leclerc)             |           |           |
 | 25/02/2014 | Jarrige - Pâte d'amande logo            |     10.00 |           |
-|            | (fact in/)                              |           |           |
+|            | (fact in/201402_03_jarrige)             |           |           |
 | 26/02/2014 | Leclerc - buffet apihour#7              |    144.27 |           |
-|            | (fact in/)                              |           |           |
+|            | (fact in/201402_04_leclerc)             |           |           |
 | 04/03/2014 | Sponsoring i-Biseness                   |           |    500.00 |
 |            | (fact out/201402_01_ibiseness)          |           |           |
 | 28/03/2014 | Sponsoring Coffreo                      |           |    200.00 |
 |            | (fact out/201309_01_viastorage)         |           |           |
 | 21/05/2014 | Spreadshirt tee-shirts                  |    220.10 |           |
 |            | (fact in/)                              |           |           |
+| 23/05/2014 | Leclerc Traiteur - buffet apihour#8     |    165.80 |           |
+|            | (fact in/201405_02_leclerc)             |           |           |
+| 28/05/2014 | Leclerc - buffet apihour#8              |     16.93 |           |
+|            | (fact in/201405_03_leclerc)             |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
-|            |                                   Total |   924.57  |   1737.40 |
-|            |                                   Solde |                812.83 |
+|            |                                   Total |  1107.30  |   1737.40 |
+|            |                                   Solde |                630.10 |
