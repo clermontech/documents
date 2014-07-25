@@ -96,6 +96,12 @@
 |            | (fact out/201406_01_mailjet)            |           |           |
 | 23/06/2014 | Stickermule stickers                    |    196.30 |           |
 |            | (fact in/201406_01_stickermule)         |           |           |
+| 09/07/2014 | Studio Blatin - micro HF                |     97.70 |           |
+|            | (fact in/201407_01_studioblatin)        |           |           |
+| 10/07/2014 | Leclerc Traiteur - buffet apihour#10    |     93.65 |           |
+|            | (fact in/201407_02_leclerc)             |           |           |
+| 25/07/2014 | Comsource cartes postales               |    228.56 |           |
+|            | (fact in/201407_03_comsource            |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
-|            |                                   Total |  1303.60  |   1987.40 |
-|            |                                   Solde |                683.80 |
+|            |                                   Total |  1723.51  |   1987.40 |
+|            |                                   Solde |                263.89 |
