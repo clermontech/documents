@@ -101,7 +101,9 @@
 | 10/07/2014 | Leclerc Traiteur - buffet apihour#10    |     93.65 |           |
 |            | (fact in/201407_02_leclerc)             |           |           |
 | 25/07/2014 | Comsource cartes postales               |    228.56 |           |
-|            | (fact in/201407_03_comsource            |           |           |
+|            | (fact in/201407_03_comsource)           |           |           |
+| 06/08/2014 | Decombat - Roll up x 2                  |    228.00 |           |
+|            | (fact in/201408_01_decombat)            |           |           |
 |-----------:|-----------------------------------------|----------:|----------:|
-|            |                                   Total |  1723.51  |   1987.40 |
-|            |                                   Solde |                263.89 |
+|            |                                   Total |  1951.51  |   1987.40 |
+|            |                                   Solde |                 35.89 |
