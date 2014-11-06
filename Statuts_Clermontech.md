@@ -18,7 +18,7 @@ Cette association a pour objet de fédérer les développeurs auvergnats.
 
 ## ARTICLE 3 - SIEGE SOCIAL
 
-Le siège social est fixé au : **4 allée des Coteaux 63110 BEAUMONT**.
+Le siège social est fixé au : **19 rue Rabelais 63100 CLERMONT-FERRAND**.
 
 Il pourra être transféré par simple décision du conseil d'administration.
 
@@ -169,4 +169,5 @@ la dissolution.
 
 - *Créé le 21 Février 2013 à Clermont-Ferrand;*
 - *Modifié le 6 Février 2014 à Clermont-Ferrand.*
+- *Modifié le 6 Novembre 2014 à Clermont-Ferrand.*
 
