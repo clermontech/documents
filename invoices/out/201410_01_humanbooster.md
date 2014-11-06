@@ -1,11 +1,12 @@
-<p class="invoice-number">Facture n°201306_04_humanbooster</p>
+<p class="invoice-number">Facture n°201411_02_humanbooster</p>
 
 <img class="left" width="70px" src="http://clermontech.org/images/clermontech_logo_200px.png" alt="Clermontech Logo" />
 
 <p class="address-us">
 <span class="address-title">Clermont'ech</span>
-<span class="address-street">4 rue nationale</span>
+<span class="address-street">4 allée des Coteaux</span>
 <span class="address-city">63110 Beaumont</span>
+<span class="address-country">France</span>
 <span class="address-extra">Siret 793 603 440 00017</span>
 </p>
  
@@ -16,7 +17,7 @@
 </p>
 
 <h1 class="invoice-title">
-Facture n°201306_04_humanbooster du 25 Juin 2013
+Facture n°201411_02_humanbooster du 6 Novembre 2014
 </h1>
 
 
