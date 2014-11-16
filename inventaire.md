@@ -44,6 +44,7 @@
 - Stickers rond ~ 78
 - Stickers "Big Plasciipus" : 7
 - Business Cards ~ 50 (chez @willdurand)
+- Cartes postales : 10
 - Flyers Délirium ~ 200
 
 # Matériel
