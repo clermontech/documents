@@ -39,6 +39,12 @@
 # Goodies
 
 - 4 Tee shirt clermont'ech
+- Cheat sheets : 35
+- Stickers "Baleine" 3" ~ 110
+- Stickers rond ~ 78
+- Stickers "Big Plasciipus" : 7
+- Business Cards ~ 50 (chez @willdurand)
+- Flyers Délirium ~ 200
 
 # Matériel
 
@@ -48,5 +54,8 @@
 - cable hdmi 5m * 1
 - routeur wifi cisco (prêt pierre) * 1
 - kakemono clermont'ech * 1
-- kakemono apihour * 1 (chez jmaupetit)
+- kakemono apihour * 1 (chez @willdurand)
 
+# Petit Matériel
+
+- Enveloppes ~ 80
