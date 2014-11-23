@@ -19,23 +19,23 @@
 | 21/05/2014 | [Spreadshirt tee-shirts](invoices/in/201405_01_spreadshirt.pdf)             |    220.10 |           |
 | 23/05/2014 | [Leclerc Traiteur - buffet apihour#9](invoices/in/201405_02_leclerc.pdf)    |    165.80 |           |
 | 28/05/2014 | [Leclerc - buffet apihour#9](invoices/in/201405_03_leclerc.pdf)             |     16.93 |           |
-| 17/06/2013 | [Sponsoring Mailjet](invoices/out/201406_01_mailjet.md)                     |           |    250.00 |
+| 17/06/2014 | [Sponsoring Mailjet](invoices/out/201406_01_mailjet.md)                     |           |    250.00 |
 | 23/06/2014 | [Stickermule stickers](invoices/in/201406_01_stickermule.pdf)               |    196.30 |           |
 | 09/07/2014 | [Studio Blatin - micro HF](invoices/in/201407_01_studioblatin.pdf)          |     97.70 |           |
 | 10/07/2014 | [Leclerc Traiteur - buffet apihour#10](invoices/in/201407_02_leclerc.pdf)   |     93.65 |           |
 | 25/07/2014 | [Comsource cartes postales](invoices/in/201407_03_comsource.pdf)            |    228.56 |           |
 | 06/08/2014 | [Decombat - Roll up x 2](invoices/in/201408_01_decombat.pdf)                |    228.00 |           |
-| 08/10/2013 | [Sponsoring Comsource](invoices/out/201408_01_comsource.md)                 |           |    200.00 |
-| 08/10/2013 | [Sponsoring Openstudio](invoices/out/201408_02_openstudio.md)               |           |    200.00 |
+| 08/10/2014 | [Sponsoring Comsource](invoices/out/201408_01_comsource.md)                 |           |    200.00 |
+| 08/10/2014 | [Sponsoring Openstudio](invoices/out/201408_02_openstudio.md)               |           |    200.00 |
 | 15/11/2014 | [Boulanger - cable rj45](invoices/in/201411_01_boulanger.pdf)               |     36.99 |           |
 | 15/11/2014 | [Géant - plateaux repas workshop#1](invoices/in/201411_02_geant.pdf)        |    454.11 |           |
 | 15/11/2014 | [Promocash - divers workshop#1](invoices/in/201411_03_promocash.pdf)        |    145.09 |           |
 | 15/11/2014 | [Leclerc - viennoiseries workshop#1](invoices/in/201411_04_leclerc.pdf)     |     30.00 |           |
 | 15/11/2014 | [Retif - sac workshop#1](invoices/in/201411_05_retif.pdf)                   |     19.18 |           |
 | 15/11/2014 | [Leclerc - divers workshop#1](invoices/in/201411_06_leclerc.pdf)            |     20.69 |           |
-| 18/10/2013 | [Sponsoring ITNetwork](invoices/out/201407_01_itn.md)                       |           |    400.00 |
-| 20/11/2013 | [Vente billets workshop#1](invoices/out/workshop#1)                         |           |    696.00 |
-| 20/11/2013 | [Eventbrite - frais billets]()                                              |     79.26 |           |
+| 18/10/2014 | [Sponsoring ITNetwork](invoices/out/201407_01_itn.md)                       |           |    400.00 |
+| 20/11/2014 | [Vente billets workshop#1](invoices/out/workshop#1)                         |           |    696.00 |
+| 20/11/2014 | [Eventbrite - frais billets]()                                              |     79.26 |           |
 |            |                                                                             |           |           |
 |            |                                                                   **Total** |   2736.83 |   3483.40 |
 |            |                                                                   **Solde** |           | **746.57**|
