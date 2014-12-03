@@ -37,6 +37,10 @@
 | 20/11/2014 | [Vente billets workshop#1](invoices/out/workshop#1)                         |           |    696.00 |
 | 20/11/2014 | [Eventbrite - frais billets]()                                              |     79.26 |           |
 | 20/11/2014 | [Sponsoring Agaetis](invoices/out/201411_03_agaetis.md)                     |           |    200.00 |
+| 01/12/2014 | [Sponsoring Gandi](invoices/out/201411_01_gandi.md)                         |           |    250.00 |
+| 01/12/2014 | [Sponsoring Human Booster](invoices/out/201411_02_humanbooster.md)          |           |    600.00 |
+| 01/12/2014 | [Decombat - Cheat Sheet]()                                                  |    134.40 |           |
+| 01/12/2014 | [Chocoworld - chocolats apihour#11]()                                       |    196.62 |           |
 |            |                                                                             |           |           |
-|            |                                                                   **Total** |   2736.83 |   3683.40 |
-|            |                                                                   **Solde** |           | **946.57**|
+|            |                                                                   **Total** |   3067.85 |   4533.40 |
+|            |                                                                   **Solde** |           |**1465.55**|
