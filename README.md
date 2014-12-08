@@ -25,5 +25,5 @@ $ docker build -t clermontech-md2pdf .
 Then use it
 
 ```
-$ docker run -t -i -v $PWD:/srv clermontech-md2pdf INPUT.md OUTPUT.pdf --css=FILE.css
+$ docker run -t -i -v $PWD:/srv clermontech-md2pdf INPUT.md OUTPUT.pdf
 ```
