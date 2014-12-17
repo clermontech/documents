@@ -39,8 +39,11 @@
 | 20/11/2014 | [Sponsoring Agaetis](invoices/out/201411_03_agaetis.md)                     |           |    200.00 |
 | 01/12/2014 | [Sponsoring Gandi](invoices/out/201411_01_gandi.md)                         |           |    250.00 |
 | 01/12/2014 | [Sponsoring Human Booster](invoices/out/201411_02_humanbooster.md)          |           |    600.00 |
-| 01/12/2014 | [Decombat - Cheat Sheet]()                                                  |    134.40 |           |
-| 01/12/2014 | [Chocoworld - chocolats apihour#11]()                                       |    196.62 |           |
+| 01/12/2014 | [Decombat - Cheat Sheet](invoices/out/201412_01_decombat.pdf)               |    134.40 |           |
+| 01/12/2014 | [Chocoworld - chocolats apihour#12]()                                       |    196.62 |           |
+| 01/12/2014 | [Sponsoring Liopen](invoices/out/201412_01_liopen.md)                       |           |    300.00 |
+| 16/12/2014 | [Geant - buffet apihour#12](invoices/out/201412_02_geant.pdf)               |    176.15 |           |
+| 17/12/2014 | [L'Empire du Malt - tireuse apihour#12](invoices/out/201412_03_empire.pdf)  |     75.34 |           |
 |            |                                                                             |           |           |
-|            |                                                                   **Total** |   3067.85 |   4533.40 |
-|            |                                                                   **Solde** |           |**1465.55**|
+|            |                                                                   **Total** |   3319.34 |   4833.40 |
+|            |                                                                   **Solde** |           |**1514.06**|
