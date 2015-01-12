@@ -35,7 +35,7 @@
 | 15/11/2014 | [Leclerc - divers workshop#1](invoices/in/201411_06_leclerc.pdf)            |     20.69 |           |
 | 18/11/2014 | [Sponsoring ITNetwork](invoices/out/201407_01_itn.md)                       |           |    400.00 |
 | 20/11/2014 | [Vente billets workshop#1](invoices/out/workshop#1)                         |           |    696.00 |
-| 20/11/2014 | [Eventbrite - frais billets]()                                              |     79.26 |           |
+| 20/11/2014 | [Eventbrite - frais billets](invoices/in/201411_07_eventbrite.pdf)          |     79.26 |           |
 | 20/11/2014 | [Sponsoring Agaetis](invoices/out/201411_03_agaetis.md)                     |           |    200.00 |
 | 01/12/2014 | [Sponsoring Gandi](invoices/out/201411_01_gandi.md)                         |           |    250.00 |
 | 01/12/2014 | [Sponsoring Human Booster](invoices/out/201411_02_humanbooster.md)          |           |    600.00 |
