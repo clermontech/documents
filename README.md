@@ -19,11 +19,11 @@ A dockerfile is present if you want to use [md2pdf](https://github.com/jmaupetit
 Build the image
 
 ```
-$ docker build -t clermontech-md2pdf .
+$ docker build --rm -t clermontech-md2pdf .
 ```
 
 Then use it
 
 ```
-$ docker run -t -i -v $PWD:/srv clermontech-md2pdf INPUT.md OUTPUT.pdf
+$ docker run --rm -t -i -v $PWD:/srv clermontech-md2pdf INPUT.md OUTPUT.pdf
 ```
