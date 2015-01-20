@@ -9,7 +9,7 @@ Les documents officiels de l'association de développeurs clermontois.
 * [inventaire](inventaire.md)
 * [documents officiels](officiel)
 * [ressources graphiques](resources)
-* [liste des sponsors](sponsors)
+* [liste des sponsors](sponsors.md)
 
 ## Docker
 
