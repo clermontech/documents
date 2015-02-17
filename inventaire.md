@@ -38,14 +38,19 @@
 
 # Goodies
 
-- 4 Tee shirt clermont'ech
-- Cheat sheets : 35
-- Stickers "Baleine" 3" ~ 110
-- Stickers rond ~ 78
-- Stickers "Big Plasciipus" : 7
-- Business Cards ~ 50 (chez @willdurand)
+- T-shirts clermont'ech : 4
+- Cheat sheets : ~20
+- Stickers "Baleine" 3" ~ 5
+- Stickers rond ~ **0**
+- Stickers "Big Plasciipus" : **0**
+- Business Cards ~ 200+
 - Cartes postales : 10
 - Flyers Délirium ~ 200
+- T-shirts Docker M : 1
+- T-shrits Docker 2XL : 3
+- Masques Mailjet : 2
+- Tours de cou Mailjet : 9
+- Stickers Heroku
 
 # Matériel
 
@@ -53,10 +58,10 @@
 - micro HF * 1
 - cable rj45 20m * 1
 - cable hdmi 5m * 1
-- routeur wifi cisco (prêt pierre) * 1
-- kakemono clermont'ech * 1
-- kakemono apihour * 1 (chez @willdurand)
+- routeur wifi cisco (prêt Pierre) * 1
+- kakemono Clermont'ech * 1
+- kakemono API Hour * 1
 
 # Petit Matériel
 
-- Enveloppes ~ 80
+- Enveloppes ~ 70
