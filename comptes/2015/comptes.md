@@ -8,7 +8,7 @@
 | 20/01/2015 | [Sponsoring Overscan](invoices/out/201501_01_overscan.md)                          |           |    300.00 |
 | 21/01/2015 | [Alwaysdata - nom de domaine](invoices/in/201501_01_alwaysdata.pdf)                |     22.00 |           |
 | 05/02/2015 | [Celtill - repas des speakers](invoices/in/201502_01_celtill.pdf)                  |    484.00 |           |
-| 05/02/2015 | [Sponsoring O2Switch - workshop#1](../../2014/invoices/out/201411_04_o2switch.pdf) |           |    250.00 |
+| 05/02/2015 | [Sponsoring O2Switch - workshop#1](../2014/invoices/out/201411_04_o2switch.pdf)    |           |    250.00 |
 | 07/02/2015 | [Cofiroute - AG Afup](invoices/in/201502_02_afup.pdf)                              |     34.60 |           |
 | 07/02/2015 | [APRR - AG Afup](invoices/in/201502_02_afup.pdf)                                   |     36.50 |           |
 | 07/02/2015 | [Shell Marmagne - AG Afup](invoices/in/201502_02_afup.pdf)                         |     18.60 |           |
