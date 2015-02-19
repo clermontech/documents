@@ -15,7 +15,9 @@
 | 07/02/2015 | [Leo Resto - AG Afup](invoices/in/201502_02_afup.pdf)                              |     33.60 |           |
 | 07/02/2015 | [SPIE Batignolles - AG Afup](invoices/in/201502_02_afup.pdf)                       |      5.00 |           |
 | 07/02/2015 | [BP Chaumont - AG Afup](invoices/in/201502_02_afup.pdf)                            |     48.16 |           |
+| 07/02/2015 | [Maison du mug - Apihour#13]()                                                     |    554.21 |           |
 | 18/02/2015 | [Leclerc - buffet Apihour#13](invoices/in/201502_03_leclerc.pdf)                   |    289.60 |           |
+| 18/02/2015 | [Sponsoring O2Switch](invoices/out/201502_01_o2switch.pdf)                         |           |    250.00 |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |    974.76 |   2064.06 |
-|            |                                                                          **Solde** |           |**1089.30**|
+|            |                                                                          **Total** |   1528.97 |   2314.06 |
+|            |                                                                          **Solde** |           | **785.09**|
