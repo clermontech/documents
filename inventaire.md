@@ -26,7 +26,7 @@
 ## Salé
 
 - Chips (grand sachet) * 2
-- Cacahouettes 400g * 4
+- Cacahuètes 400g * 4
 
 # Jetable
 
