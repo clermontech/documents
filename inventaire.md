@@ -2,42 +2,57 @@
 
 ## Soft
 
-- H2O 1.5l * 4
-- H2O 0.75l * 2
-- Oasis 2l * 3
-- H2O gazeuse 1.5l * 4
+- H2O 1.5l * 1
+- H2O 0.75l * 1
+- H2O 0.50 * 4
+- Oasis 2l * 1
+- Thé pêche 2l * 1
+- Coca cola 1.5l * 2
+- ~H2O gazeuse 1.5l~
 
-- Sachet thé ~ 1 paquet
-- Sachet tisane ~ 0.5 paquet
-- Café 1kg * 1
+- Sachet thé divers ~ 1 paquet (25 sachets)
+- Thé vert 1 boite (50 sachets)
+- Thé earl grey 1 boite (50 sachets)
+- Sachet tisane ~ 0.5 paquet (~10 sachets)
+- Café 250g * 3
 
 ## Alcool
 
-- Heineken 0.25l * 12
+- Heineken 0.25l * 10
+- Vin rouge 0.75cl * 1
 
 ## Sucré
 
-- Tablette chocolat lait * 5
+- ~Tablette chocolat lait~
 - Tablette cocolat noir * 5
 - Dragibus ~ fond de boite
+- Fraises Tagada 1 boite
+- Frites Haribo ~ 0.5 boite
 - Crocodiles ~ 0.5 boite
 - Sucre morceaux  ~ 0.5kg
 
 ## Salé
 
 - Chips (grand sachet) * 2
-- Cacahuètes 400g * 4
+- Cacahuètes 400g * 2
+- Cacahuètes 1kg * 1
+- Assortiment crakers * 1
 
 # Jetable
 
 - Sac papier kraft ~ 40
-- Verre plastique ~ 20
-- Verre café plastique ~ 50
-- Serviette papier ~ 500
-- Assiette carton ~ 50
-- Cuillère plastique ~ 50
+- Verre plastique ~ 180
+- Verre café plastique ~ 150
+- Serviette papier ~ 800
+- Assiette carton ~ 25
+- Assiette plastique ~ 80
+- Assiette plastique dessert ~ 100
+- Cuillère plastique ~ 200
+- Couteau plastique ~ 100
+- Agitateur café ~ 200
+- Fourchette plastique ~ 100
 - Nappe papier blc 8m * 1
-- Sac poubelle ~ 25
+- Sac poubelle ~ 15
 
 # Goodies
 
