@@ -18,8 +18,15 @@
 | 07/02/2015 | [Maison du mug - Apihour#13]()                                                     |    554.21 |           |
 | 18/02/2015 | [Leclerc - buffet Apihour#13](invoices/in/201502_03_leclerc.pdf)                   |    289.60 |           |
 | 18/02/2015 | [Sponsoring O2Switch](invoices/out/201502_01_o2switch.pdf)                         |           |    250.00 |
-| 18/02/2015 | [Empire du malt - Apihour#13](invoices/in/201503_01_empiredumalt.pdf)              |     35.60 |           |
-| 18/02/2015 | [Promocash - Apihour#13](invoices/in/201503_02_promocash.pdf)                      |     53.71 |           |
+| 04/03/2015 | [Empire du malt - Apihour#13](invoices/in/201503_01_empiredumalt.pdf)              |     35.60 |           |
+| 04/03/2015 | [Promocash - Apihour#13](invoices/in/201503_02_promocash.pdf)                      |     53.71 |           |
+| 09/04/2015 | [Sponsoring Perfect Memory](invoices/out/201502_02_perfectmemory.pdf)              |           |    400.00 |
+| 16/04/2015 | [Leclerc - buffet Apihour#14](invoices/in/201504_01_leclerc.pdf)                   |     79.62 |           |
+| 16/04/2015 | [Puy de la lune - repas Apihour#14](invoices/in/201504_02_puydelalune.pdf)         |     36.50 |           |
+| 07/05/2015 | [Fromages - Djangocong](invoices/in/201505_01_fromages.pdf)                        |    106.00 |           |
+| 14/05/2015 | [Les Petites Ficelles - Plaquettes](invoices/in/201505_02_lespetitesficelles.pdf)  |     36.78 |           |
+| 14/05/2015 | [Les Petites Ficelles - Posters](invoices/in/201505_03_lespetitesficelles.pdf)     |     84.18 |           |
+| 14/05/2015 | [Stickermule - Stickers]()                                                         |    168.50 |           |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   1618.28 |   2314.06 |
-|            |                                                                          **Solde** |           | **695.78**|
+|            |                                                                          **Total** |   2050.22 |   2714.06 |
+|            |                                                                          **Solde** |           | **584.22**|
