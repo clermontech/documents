@@ -27,6 +27,7 @@
 | 14/05/2015 | [Les Petites Ficelles - Plaquettes](invoices/in/201505_02_lespetitesficelles.pdf)  |     36.78 |           |
 | 14/05/2015 | [Les Petites Ficelles - Posters](invoices/in/201505_03_lespetitesficelles.pdf)     |     84.18 |           |
 | 14/05/2015 | [Stickermule - Stickers]()                                                         |    168.50 |           |
+| 08/06/2015 | [Amazon - webcam HD](invoices/in/201506_03_amazon.pdf)                             |     81.90 |           |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   2050.22 |   2714.06 |
-|            |                                                                          **Solde** |           | **584.22**|
+|            |                                                                          **Total** |   2211.74 |   2714.06 |
+|            |                                                                          **Solde** |           | **502.32**|
