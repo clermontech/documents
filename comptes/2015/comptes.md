@@ -15,7 +15,7 @@
 | 07/02/2015 | [Leo Resto - AG Afup](invoices/in/201502_02_afup.pdf)                              |     33.60 |           |
 | 07/02/2015 | [SPIE Batignolles - AG Afup](invoices/in/201502_02_afup.pdf)                       |      5.00 |           |
 | 07/02/2015 | [BP Chaumont - AG Afup](invoices/in/201502_02_afup.pdf)                            |     48.16 |           |
-| 07/02/2015 | [Maison du mug - Apihour#13]()                                                     |    554.21 |           |
+| 07/02/2015 | Maison du mug - Apihour#13                                                         |    554.21 |           |
 | 18/02/2015 | [Leclerc - buffet Apihour#13](invoices/in/201502_03_leclerc.pdf)                   |    289.60 |           |
 | 18/02/2015 | [Sponsoring O2Switch](invoices/out/201502_01_o2switch.pdf)                         |           |    250.00 |
 | 04/03/2015 | [Empire du malt - Apihour#13](invoices/in/201503_01_empiredumalt.pdf)              |     35.60 |           |
@@ -26,8 +26,11 @@
 | 07/05/2015 | [Fromages - Djangocong](invoices/in/201505_01_fromages.pdf)                        |    106.00 |           |
 | 14/05/2015 | [Les Petites Ficelles - Plaquettes](invoices/in/201505_02_lespetitesficelles.pdf)  |     36.78 |           |
 | 14/05/2015 | [Les Petites Ficelles - Posters](invoices/in/201505_03_lespetitesficelles.pdf)     |     84.18 |           |
-| 14/05/2015 | [Stickermule - Stickers]()                                                         |    168.50 |           |
+| 14/05/2015 | Stickermule - Stickers                                                             |    168.50 |           |
 | 08/06/2015 | [Amazon - webcam HD](invoices/in/201506_03_amazon.pdf)                             |     81.90 |           |
+| 15/06/2015 | Celtill - buffet Apihour#15                                                        |    150.00 |           |
+| 18/06/2015 | [Sponsoring Perfect Memory](invoices/out/201502_02_perfectmemory.pdf)              |           |    250.00 |
+| 02/08/2015 | [Kissaten - code&coffee](invoices/in/201508_01_kissaten.pdf)                       |     39.60 |           |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   2211.74 |   2714.06 |
-|            |                                                                          **Solde** |           | **502.32**|
+|            |                                                                          **Total** |   2401.34 |   2904.06 |
+|            |                                                                          **Solde** |           | **562.72**|
