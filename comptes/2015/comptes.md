@@ -29,7 +29,7 @@
 | 14/05/2015 | Stickermule - Stickers                                                             |    168.50 |           |
 | 08/06/2015 | [Amazon - webcam HD](invoices/in/201506_01_amazon.pdf)                             |     81.90 |           |
 | 15/06/2015 | [Celtill - buffet Apihour#15](invoices/in/201506_02_celtill.pdf)                   |    150.00 |           |
-| 18/06/2015 | [Sponsoring Perfect Memory](invoices/out/201502_02_perfectmemory.pdf)              |           |    250.00 |
+| 18/06/2015 | [Sponsoring Heuritech](invoices/out/201504_01_heuritech.pdf)                       |           |    250.00 |
 | 02/08/2015 | [Kissaten - code&coffee](invoices/in/201508_01_kissaten.pdf)                       |     39.60 |           |
 |            |                                                                                    |           |           |
 |            |                                                                          **Total** |   2401.34 |   2904.06 |
