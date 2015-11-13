@@ -31,6 +31,9 @@
 | 15/06/2015 | [Celtill - buffet Apihour#15](invoices/in/201506_02_celtill.pdf)                   |    150.00 |           |
 | 18/06/2015 | [Sponsoring Heuritech](invoices/out/201504_01_heuritech.pdf)                       |           |    250.00 |
 | 02/08/2015 | [Kissaten - code&coffee](invoices/in/201508_01_kissaten.pdf)                       |     39.60 |           |
+| 14/09/2015 | Leclerc - buffet Apihour#16                                                        |     94.00 |           |
+| 10/11/2015 | Celtill - buffet Apihour#17                                                        |    150.00 |           |
+| 13/11/2015 | [Sponsoring Biocorp](invoices/out/201510_01_biocorp.pdf)                           |           |    400.00 |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   2401.34 |   2904.06 |
-|            |                                                                          **Solde** |           | **562.72**|
+|            |                                                                          **Total** |   2645.34 |   3304.06 |
+|            |                                                                          **Solde** |           | **658.72**|
