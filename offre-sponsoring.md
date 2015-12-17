@@ -1,6 +1,6 @@
 # Sponsoring Clermont'ech
 
-## _Platypus Vulgaris_
+## _Platypus vulgaris_
 
 > Don en nature (buffet, café, boissons, etc.)
 
@@ -8,7 +8,7 @@
 * Environ 50 personnes motivées, passionnées, et techniques, potentiellement en recherche de job ou à l'écoute du marché
 * Un réseau qui cible le monde du développement
 
-## _Platypus Generus_
+## _Platypus generus_
 
 > A partir de **200 €** par an
 
@@ -17,7 +17,7 @@ En plus du plan précédent :
 * Publicité lors des événements par communication orale
 * Distribution de goodies, flyers, etc. à tous les participants
 
-## _Platypus Coolissimus_
+## _Platypus coolissimus_
 
 > A partir de **400 €** par an
 
@@ -25,7 +25,7 @@ En plus du plan précédent :
 
 * Un slot de 5 minutes lors de 2 événements (le sponsor pourra être représenté par l'un de ses collaborateurs, ou par un membre du bureau de Clermont'ech le cas échéant)
 
-## _Platypus Giganticus_
+## _Platypus giganticus_
 
 > A partir de **700 €** par an
 
@@ -33,7 +33,7 @@ En plus du plan précédent :
 
 * Votre logo sur un goodies officiel Clermont'ech
 
-## _Platypus Magnificus_ 
+## _Platypus magnificus_ 
 
 > A partir de **1000 €** par an
 
