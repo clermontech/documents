@@ -2,7 +2,7 @@
 
 ## _platypus vulgaris_
 
-> Dont en nature (buffet, café, bières, etc.)
+> Don en nature (buffet, café, bières, etc.)
 
 * de la publicité sur notre site web (logo + lien), et lors des événements par communication visuelle,
 * environ 50 personnes motivées, passionnées, et techniques, potentiellement en recherche de job, ou à l'écoute du marché
@@ -10,7 +10,7 @@
 
 ## _platypus generus_
 
-> Dont de **200€** par an
+> Don de **200€** par an
 
 En plus du plan précédent :
 
@@ -19,7 +19,7 @@ En plus du plan précédent :
 
 ## _platypus coolissimus_
 
-> Dont de **400€** par an
+> Don de **400€** par an
 
 En plus du plan précédant :
 
@@ -27,7 +27,7 @@ En plus du plan précédant :
 
 ## _platypus giganticus_
 
-> Dont de **650€** par an
+> Don de **650€** par an
 
 En plus du plan précédant :
 
@@ -35,7 +35,7 @@ En plus du plan précédant :
 
 ## _platypus magnificus_ 
 
-> Dont de **1000€** ou plus par an
+> Don de **1000€** ou plus par an
 
 En plus du plan précédant :
 
