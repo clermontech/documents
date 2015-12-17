@@ -6,7 +6,7 @@
 
 * de la publicité sur notre site web (logo + lien), et lors des événements par communication visuelle,
 * environ 50 personnes motivées, passionnées, et techniques, potentiellement en recherche de job, ou à l'écoute du marché
-* un (mini) réseau qui cible le monde du développement
+* un réseau qui cible le monde du développement
 
 ## _platypus generus_
 
@@ -21,15 +21,15 @@ En plus du plan précédent :
 
 > Don de **400€** par an
 
-En plus du plan précédant :
+En plus du plan précédent :
 
-* un slot de 5 minutes lors de 2 événements (le sponsor pourra être représenté par l'un de ses collaborateurs, ou par le bureau Clermont'ech le cas échéant)
+* un slot de 5 minutes lors de 2 événements (le sponsor pourra être représenté par l'un de ses collaborateurs, ou par un membre du bureau de Clermont'ech le cas échéant)
 
 ## _platypus giganticus_
 
 > Don de **650€** par an
 
-En plus du plan précédant :
+En plus du plan précédent :
 
 * votre logo sur un goodies officiel Clermont'ech
 
@@ -37,7 +37,7 @@ En plus du plan précédant :
 
 > Don de **1000€** ou plus par an
 
-En plus du plan précédant :
+En plus du plan précédent :
 
 * une soirée dans la [batcave](https://www.facebook.com/Celtill-Bistro-Resto-136434986426504/) avec le bureau Clermont'ech
 * notre infinie reconnaissance
