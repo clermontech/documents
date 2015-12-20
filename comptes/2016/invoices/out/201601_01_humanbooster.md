@@ -1,4 +1,4 @@
-<p class="invoice-number">Facture n°201512_02_humanbooster</p>
+<p class="invoice-number">Facture n°201601_01_humanbooster</p>
 
 <img class="left" width="70px" src="http://clermontech.org/images/clermontech_logo_200px.png" alt="Clermontech Logo" />
 
@@ -17,7 +17,7 @@
 </p>
 
 <h1 class="invoice-title">
-Facture n°201512_02_humanbooster du 19 Décembre 2015
+Facture n°201601_01_humanbooster du 1er Janvier 2016
 </h1>
 
 
