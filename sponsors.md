@@ -77,8 +77,6 @@ Pépinière d'entreprises Pascalis
 63000 Clermont-Ferrand
 ```
 
-## non-renouvelés
-
 ```
 i-Biseness
 12, route de Mégecoste
