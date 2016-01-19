@@ -1,4 +1,5 @@
 # Les sponsors
+
 ```
 Overscan
 Avenue Michel Ange
@@ -12,42 +13,6 @@ GitHub, Inc.
 San Francisco
 CA 94107
 USA
-```
-
-```
-i-Biseness
-12, route de Mégecoste
-63570 Brassac-les-Mines
-```
-
-```
-Mailjet SAS
-37 bis, rue du Sentier
-75002 Paris
-```
-
-```
-ITNetwork
-45 rue Domremy
-75013 Paris
-```
-
-```
-ComSource
-6 rue Maurice Hurel
-31500 Toulouse
-```
-
-```
-Openstudio
-2B Fg Saint Jean
-43000 Le Puy en Velay
-```
-
-```
-Gandi SAS
-63-65 boulevard Massena
-75013 Paris
 ```
 
 ```
@@ -72,4 +37,73 @@ o2switch
 Liopen
 39 rue des Lauriers
 63100 Clermont-Ferrand
+```
+
+```
+Wisembly
+20 rue Sainte-Croix de la Bretonnerie
+75004 Paris
+```
+
+```
+Biocorp
+Parc Technologique Lavaur-la-Béchade
+63500 Issoire
+```
+
+```
+Perfect Memory
+33b Boulevard Berthelot
+63400 Chamalières
+```
+
+```
+Coffreo
+24 Rue Andre de Chenier
+91400 Orsay
+```
+
+```
+Mairie de Clermont-Ferrand
+Direction de la culture
+B.P. 60
+63033 Clermont-Ferrand
+```
+
+## non-renouvelés
+
+```
+i-Biseness
+12, route de Mégecoste
+63570 Brassac-les-Mines
+```
+
+```
+ComSource
+6 rue Maurice Hurel
+31500 Toulouse
+```
+
+```
+ITNetwork
+45 rue Domremy
+75013 Paris
+```
+
+```
+Openstudio
+2B Fg Saint Jean
+43000 Le Puy en Velay
+```
+
+```
+Gandi SAS
+63-65 boulevard Massena
+75013 Paris
+```
+
+```
+Mailjet SAS
+37 bis, rue du Sentier
+75002 Paris
 ```
