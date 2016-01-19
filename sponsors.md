@@ -70,6 +70,13 @@ B.P. 60
 63033 Clermont-Ferrand
 ```
 
+```
+TailorDev
+Pépinière d'entreprises Pascalis
+10 Allée Evariste Galois
+63000 Clermont-Ferrand
+```
+
 ## non-renouvelés
 
 ```
