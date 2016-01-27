@@ -76,39 +76,3 @@ Pépinière d'entreprises Pascalis
 10 Allée Evariste Galois
 63000 Clermont-Ferrand
 ```
-
-```
-i-Biseness
-12, route de Mégecoste
-63570 Brassac-les-Mines
-```
-
-```
-ComSource
-6 rue Maurice Hurel
-31500 Toulouse
-```
-
-```
-ITNetwork
-45 rue Domremy
-75013 Paris
-```
-
-```
-Openstudio
-2B Fg Saint Jean
-43000 Le Puy en Velay
-```
-
-```
-Gandi SAS
-63-65 boulevard Massena
-75013 Paris
-```
-
-```
-Mailjet SAS
-37 bis, rue du Sentier
-75002 Paris
-```
