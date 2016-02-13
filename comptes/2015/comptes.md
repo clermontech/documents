@@ -5,7 +5,7 @@
 |-----------:|------------------------------------------------------------------------------------|----------:|----------:|
 | 01/01/2015 | Report solde 2014                                                                  |           |   1514.06 |
 | 07/01/2015 | Frais CMMC - accès comptes en ligne                                                |      2.70 |           |
-| 20/01/2015 | [Sponsoring Overscan](invoices/out/201501_01_overscan.md)                          |           |    300.00 |
+| 20/01/2015 | [Sponsoring Overscan](invoices/out/201501_01_overscan.pdf)                         |           |    300.00 |
 | 21/01/2015 | [Alwaysdata - nom de domaine](invoices/in/201501_01_alwaysdata.pdf)                |     22.00 |           |
 | 05/02/2015 | [Celtill - repas des speakers](invoices/in/201502_01_celtill.pdf)                  |    484.00 |           |
 | 05/02/2015 | [Sponsoring O2Switch - workshop#1](../2014/invoices/out/201411_04_o2switch.pdf)    |           |    250.00 |
@@ -34,6 +34,7 @@
 | 14/09/2015 | [Leclerc - buffet Apihour#16](invoices/in/201509_01_leclerc.pdf)                   |     94.00 |           |
 | 10/11/2015 | [Celtill - buffet Apihour#17](invoices/in/201511_01_celtill.pdf)                   |    150.00 |           |
 | 13/11/2015 | [Sponsoring Biocorp](invoices/out/201510_01_biocorp.pdf)                           |           |    400.00 |
+| 13/11/2015 | [Sponsoring Taylordev](invoices/out/2015112_03_tailordev.pdf)                      |           |    200.00 |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   2645.34 |   3304.06 |
-|            |                                                                          **Solde** |           | **658.72**|
+|            |                                                                          **Total** |   2645.36 |   3564.06 |
+|            |                                                                          **Solde** |           | **918.70**|
