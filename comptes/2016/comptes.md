@@ -12,8 +12,14 @@
 | 02/02/2016 | [Tarterie venise - debrief](../2016/invoices/in/201601_03_tarterie_venise.pdf)     |     26.36 |           |
 | 02/02/2016 | [Alwaysdata - nom de domaine](invoices/in/201601_04_alwaysdata.pdf)                |     24.00 |           |
 | 02/02/2016 | [Poste - carte de voeux](invoices/in/201601_05_post.pdf)                           |      6.15 |           |
-| 11/02/2016 | [Marius - Repas des speakers](invoices/in/201602_02_marius.pdf)                    |    301.08 |           |
+| 11/02/2016 | [Marius - Repas des speakers](invoices/in/201602_02_marius.pdf)                    |    301.80 |           |
 | 11/02/2016 | [Café Pascal - Repas des speakers](invoices/in/201602_03_pascal.pdf)               |     85.40 |           |
+| 11/02/2016 | [Leclerc - Apihour#19](invoices/in/201602_04_leclerc.pdf)                          |     14.76 |           |
+| 15/02/2016 | [Sponsoring Coffreo](../2015/invoices/out/201512_04_coffreo.pdf)                   |           |    400.00 |
+| 15/02/2016 | [Don Wisembly](../2016/invoices/out/201601_02_wisembly.pdf)                        |           |    500.00 |
+| 01/03/2016 | [Géant - Apihour#19](invoices/in/201603_01_geant.pdf)                              |    197.96 |           |
+| 02/03/2016 | [Decombat - Marque page](invoices/in/201603_02_decombat.pdf)                       |     80.52 |           |
+| 04/03/2016 | Empire du malt - Apihour#19                                                        |     75.27 |           |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |    822.99 |   1718.70 |
-|            |                                                                          **Solde** |           | **895.71**|
+|            |                                                                          **Total** |   1191.22 |   2618.70 |
+|            |                                                                          **Solde** |           |**1426.48**|
