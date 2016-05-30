@@ -20,7 +20,7 @@ Cette association a pour objet de fédérer les développeurs auvergnats.
 
 Le siège social est fixé au : **19 rue Rabelais 63100 CLERMONT-FERRAND**.
 
-Il pourra être transféré par simple décision du conseil d'administration.
+Il pourra être transféré par simple décision du bureau.
 
 
 ## Article 4 - DUREE
@@ -30,14 +30,19 @@ La durée de l’association est illimitée.
 
 ## ARTICLE 5 - COMPOSITION
 
-L'association se compose de membres actifs ou adhérents :
+L'association se compose de membres actifs suivants :
 
-* Président : Julien Maupetit
-* Vice président : Julien Muetton
+* Président : Manuel Raynaud
+* Vice président : Romain Tartière
 * Trésorier : Pierre Tachoire
-* Trésorier suppléant : William Durand
-* Secrétaire : Manuel Raynaud
-* Secrétaire suppléant : Jean-Philippe Serafin
+* Trésorier suppléant : Claude Dioudonnat
+* Secrétaire : Camille Loiseau
+* Secrétaire suppléant : Julien Muetton
+
+Ainsi que des membres du conseil de surveillance suivants :
+
+* Julien Maupetit
+* William Durand
 
 
 ## ARTICLE 6 - ADMISSION
@@ -59,7 +64,7 @@ La qualité de membre se perd par :
 
 * La démission ;
 * Le décès ;
-* La radiation prononcée par le conseil d'administration pour motif grave,
+* La radiation prononcée par le bureau pour motif grave,
 l'intéressé ayant été invité par lettre recommandée à fournir des explications
 devant le bureau et/ou par écrit.
 
@@ -68,7 +73,7 @@ devant le bureau et/ou par écrit.
 
 La présente association n’est affiliée à aucune fédération. Elle peut par
 ailleurs adhérer à d’autres associations, unions ou regroupements par décision
-du conseil d’administration.
+du bureau.
 
 
 ## ARTICLE 10 - RESSOURCES
@@ -88,7 +93,7 @@ Elle se réunit chaque année au mois de Février.
 
 Quinze jours au moins avant la date fixée, les membres de l'association sont
 convoqués par les soins du secrétaire. L'ordre du jour figure sur les
-convocations. Le président, assisté des membres du conseil, préside l'assemblée
+convocations. Le président, assisté des membres du bureau, préside l'assemblée
 et expose la situation morale ou l’activité de l'association. Le trésorier rend
 compte de sa gestion et soumet les comptes annuels (bilan, compte de résultat et
 annexe) à l'approbation de l'assemblée. L’assemblée générale fixe le montant des
@@ -98,10 +103,10 @@ du jour.
 
 Les décisions sont prises à la majorité des voix des membres présents ou
 représentés ou des suffrages exprimés. Il est procédé, après épuisement de
-l'ordre du jour, au renouvellement des membres sortants du conseil.
+l'ordre du jour, au renouvellement des membres sortants du bureau.
 
 Toutes les délibérations sont prises à main levée, exceptée l’élection des
-membres du conseil. Les décisions des assemblées générales s’imposent à tous les
+membres du bureau. Les décisions des assemblées générales s’imposent à tous les
 membres, y compris absents ou représentés.
 
 
@@ -116,32 +121,9 @@ Les délibérations sont prises à la majorité des membres présents ou des
 suffrages exprimés.
 
 
-## ARTICLE 13 - CONSEIL D'ADMINISTRATION
+## ARTICLE 13 – LE BUREAU
 
-L'association est dirigée par un conseil de six membres, élus pour deux années
-par l'assemblée générale. Les membres sont rééligibles.
-
-Le conseil étant renouvelé chaque année par moitié, la première année, les
-membres sortants sont désignés par tirage au sort.
-
-En cas de vacances, le conseil pourvoit provisoirement au remplacement de ses
-membres. Il est procédé à leur remplacement définitif par la plus prochaine
-assemblée générale. Les pouvoirs des membres ainsi élus prennent fin à
-l'expiration du mandat des membres remplacés.
-
-Le conseil d'administration se réunit au moins une fois tous les six mois, sur
-convocation du président, ou à la demande du quart de ses membres.
-
-Les décisions sont prises à la majorité des voix; en cas de partage, la voix du
-président est prépondérante.
-
-Tout membre du conseil qui, sans excuse, n'aura pas assisté à trois réunions
-consécutives sera considéré comme démissionnaire.
-
-
-## ARTICLE 14 – LE BUREAU
-
-Le conseil d'administration élit parmi ses membres, un bureau composé de :
+Les membres de l'association élisent parmi les membres, un bureau composé de :
 
 * Un président ;
 * Un vice-président ;
@@ -149,13 +131,28 @@ Le conseil d'administration élit parmi ses membres, un bureau composé de :
 * Un trésorier et un trésorier suppléant.
 
 
+## ARTICLE 14 – LE CONSEIL DE SURVEILLANCE
+
+L'association est pourvue d'un conseil de surveillance composé exclusivement
+d'anciens membres du bureau, élus pour deux années par l'assemblée générale.
+
+Les membres du conseil de surveillance sont rééligibles.
+
+Le conseil de surveillance excerce un pouvoir de conseil auprès de l'association.
+
+Tout membre du conseil de surveillance reste adhérent de l'association.
+
+Le nombre total des votes des membres du conseil de surveillance en assemblée
+générale ne peux dépasser celui des membres du bureau de l'association.
+
+
 ## ARTICLE 15 – INDEMNITES
 
-Toutes les fonctions, y compris celles des membres du conseil d’administration
-et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par
-l’accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport
-financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire,
-les remboursements de frais de mission, de déplacement ou de représentation.
+Toutes les fonctions, y compris celles des membres du bureau, sont gratuites
+et bénévoles. Seuls les frais occasionnés par l’accomplissement de leur mandat
+sont remboursés sur justificatifs. Le rapport financier présenté à l’assemblée
+générale ordinaire présente, par bénéficiaire, les remboursements de frais de
+mission, de déplacement ou de représentation.
 
 
 ## ARTICLE 16 - DISSOLUTION
@@ -170,4 +167,5 @@ la dissolution.
 - *Créé le 21 Février 2013 à Clermont-Ferrand;*
 - *Modifié le 6 Février 2014 à Clermont-Ferrand.*
 - *Modifié le 6 Novembre 2014 à Clermont-Ferrand.*
+- *Modifié le 30 Mai 2016 à Clermont-Ferrand.*
 
