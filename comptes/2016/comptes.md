@@ -21,6 +21,7 @@
 | 02/03/2016 | [Decombat - Marque page](invoices/in/201603_02_decombat.pdf)                       |     80.52 |           |
 | 04/03/2016 | [Empire du malt - Apihour#19](invoices/in/201603_03_empire.pdf)                    |     75.27 |           |
 | 18/05/2016 | [Celtill - Buffet Apihour#20](invoices/in/201605_01_celtill.pdf)                   |    150.00 |           |
+| 30/05/2016 | [Géant - debrief](invoices/in/201605_02_geant.pdf)                                 |     30.87 |           |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   1342.22 |   2618.70 |
-|            |                                                                          **Solde** |           |**1276.48**|
+|            |                                                                          **Total** |   1373.09 |   2618.70 |
+|            |                                                                          **Solde** |           |**1245.61**|
