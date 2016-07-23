@@ -22,6 +22,10 @@
 | 04/03/2016 | [Empire du malt - Apihour#19](invoices/in/201603_03_empire.pdf)                    |     75.27 |           |
 | 18/05/2016 | [Celtill - Buffet Apihour#20](invoices/in/201605_01_celtill.pdf)                   |    150.00 |           |
 | 30/05/2016 | [Géant - debrief](invoices/in/201605_02_geant.pdf)                                 |     30.87 |           |
+| 06/06/2016 | CMMC - Cotisation assurances                                                       |     81.11 |           |
+| 02/07/2016 | [L'instanT - code&coffee](invoices/in/201607_01_instant.jpg)                       |      7.20 |           |
+| 07/07/2016 | Géant - Apihour#21                                                                 |    104.28 |           |
+| 07/07/2016 | [Puy de la Lune - Apihour#21](invoices/in/201607_02_puylune.pdf)                   |     21.40 |           |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   1373.09 |   2618.70 |
-|            |                                                                          **Solde** |           |**1245.61**|
+|            |                                                                          **Total** |   1587.08 |   2618.70 |
+|            |                                                                          **Solde** |           |**1031.62**|
