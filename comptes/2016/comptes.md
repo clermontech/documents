@@ -29,6 +29,12 @@
 | 26/08/2016 | Enceinte amplifiée (occasion)                                                      |    100.00 |           |
 | 01/09/2016 | [Sponsoring 4X](invoices/out/201607_02_domraider.pdf)                              |           |    400.00 |
 | 15/09/2016 | [Celtill - Buffet Apihour#22](invoices/in/201609_01_celtill.pdf)                   |    150.00 |           |
+| 09/11/2016 | [Stickermule - magnets](invoices/in/201611_02_stickermule.pdf)                     |     82.68 |           |
+| 11/11/2016 | [Sponsoring Perfect Memory](invoices/out/201607_01_perfectmemory.pdf)              |           |    400.00 |
+| 15/11/2016 | [Leclerc - Apihour#23](invoices/in/201611_01_leclerc.pdf)                          |    153.54 |           |
+| 06/12/2016 | [Amazon - cable audio](invoices/in/201612_03_amazon.pdf)                           |      9.49 |           |
+| 09/12/2016 | [Leclerc - Apihour#24](invoices/in/201612_01_leclerc.pdf)                          |     63.60 |           |
+| 14/12/2016 | [Leclerc - Apihour#24](invoices/in/201612_02_leclerc.pdf)                          |     40.41 |           |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   1837.08 |   3018.70 |
-|            |                                                                          **Solde** |           |**1181.62**|
+|            |                                                                          **Total** |   2186.80 |   3418.70 |
+|            |                                                                          **Solde** |           |**1231.90**|
