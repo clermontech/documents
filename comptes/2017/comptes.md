@@ -22,8 +22,16 @@
 | 28/06/2017 | [Pole22bis - adhésion](invoices/out/201706_03_pole22bis.pdf)                       |     20.00 |           |
 | 28/06/2017 | [Pole22bis - salle AH28](invoices/out/201706_04_pole22bis.pdf)                     |     40.00 |           |
 | 06/07/2017 | [Spreadshirts - teeshirts](invoices/out/201706_05_spreadshirt.pdf)                 |    126.44 |           |
-| 14/09/2017 | Art délices - buffet AH30                                                          |    120.00 |           |
+| 14/09/2017 | [Art délices - buffet AH30](invoices/out/201709_02_art_delice.pdf)                 |    120.00 |           |
+| 14/09/2017 | [Leclerc - Buffet AH30](invoices/out/201709_01_leclerc.pdf)                        |     17.14 |           |
 | 20/09/2017 | [Sponsoring ITNetwork](invoices/out/201703_02_itn.pdf)                             |           |    400.00 |
+| 10/10/2017 | [Amazon - table mixage](invoices/out/201710_01_amazon.pdf)                         |     66.34 |           |
+| 10/10/2017 | [Amazon - cable vga](invoices/out/201710_02_amazon.pdf)                            |     12.90 |           |
+| 20/10/2017 | Promocash - buffet AH31                                                            |     35.14 |           |
+| 20/10/2017 | Pole22bis - salle AH31                                                             |     40.00 |           |
+| 29/10/2017 | Art délices - buffet AH31                                                          |    100.00 |           |
+| 29/10/2017 | Leclerc - buffet AH31                                                              |      9.33 |           |
+| 14/11/2017 | Speedza - repas debrief AH31                                                       |     42.20 |           |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   1487.67 |   3755.31 |
-|            |                                                                          **Solde** |           |**2267.64**|
+|            |                                                                          **Total** |   1744.38 |   3755.31 |
+|            |                                                                          **Solde** |           |**2010.93**|
