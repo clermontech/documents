@@ -32,6 +32,9 @@
 | 29/10/2017 | [Art délices - buffet AH31](invoices/out/201710_04_art_delices.pdf)                |    100.00 |           |
 | 29/10/2017 | [Carrefour - buffet AH31](invoices/out/201710_05_carrefour.pdf)                    |      9.33 |           |
 | 14/11/2017 | [Speedza - repas debrief AH31](invoices/out/201711_01_speedza.pdf)                 |     42.20 |           |
+| 21/11/2017 | [Sponsoring Domraider](invoices/out/201711_02_domraider.pdf)                       |           |    400.00 |
+| 13/09/2017 | Celtill - buffet AH32                                                              |    100.00 |           |
+| 26/12/2017 | [Alwaysdata - nom de domaine](invoices/in/201712_02_alwaysdata.pdf)                |     25.20 |           |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   1744.38 |   3755.31 |
-|            |                                                                          **Solde** |           |**2010.93**|
+|            |                                                                          **Total** |   1935.92 |   4155.31 |
+|            |                                                                          **Solde** |           |**2219.39**|
