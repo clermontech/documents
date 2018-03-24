@@ -33,16 +33,18 @@ La durée de l’association est illimitée.
 L'association se compose de membres actifs suivants :
 
 * Président : Manuel Raynaud
-* Vice président : Romain Tartière
+* Vice président : Karim Bogtob
 * Trésorier : Pierre Tachoire
 * Trésorier suppléant : Claude Dioudonnat
-* Secrétaire : Camille Loiseau
+* Secrétaire : Aymeric Brisse
 * Secrétaire suppléant : Julien Muetton
 
 Ainsi que des membres du conseil de surveillance suivants :
 
-* Julien Maupetit
 * William Durand
+* Camille Loiseau
+* Julien Maupetit
+* Romain Tartière
 
 
 ## ARTICLE 6 - ADMISSION
@@ -168,4 +170,5 @@ la dissolution.
 - *Modifié le 6 Février 2014 à Clermont-Ferrand.*
 - *Modifié le 6 Novembre 2014 à Clermont-Ferrand.*
 - *Modifié le 30 Mai 2016 à Clermont-Ferrand.*
+- *Modifié le 28 Mars 2018 à Clermont-Ferrand.*
 
