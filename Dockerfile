@@ -1,8 +1,13 @@
 FROM jmaupetit/md2pdf:latest
 
-RUN rm -rf ~/clermontech-moucss && git clone https://github.com/clermontech/Clermontech-Documents-Styles.git ~/clermontech-moucss
+RUN apt-get -yy update && apt-get -yy install wget unzip
 
-RUN cp ~/clermontech-moucss/fonts/* /usr/share/fonts/
+RUN cd /root && \
+        wget https://github.com/clermontech/Clermontech-Documents-Styles/archive/master.zip && \
+        unzip master.zip && \
+        mv Clermontech-Documents-Styles-master clermontech-moucss && \
+        rm -f master.zip && \
+        cp clermontech-moucss/fonts/* /usr/share/fonts/
 
 RUN fc-cache -f -v
 

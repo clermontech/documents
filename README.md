@@ -26,5 +26,5 @@ $ docker build --rm -t clermontech-md2pdf .
 Then use it
 
 ```
-$ docker run --rm -t -i -v $PWD:/srv clermontech-md2pdf INPUT.md OUTPUT.pdf
+$ docker run --rm -t -i -v $PWD:/app clermontech-md2pdf INPUT.md OUTPUT.pdf
 ```
