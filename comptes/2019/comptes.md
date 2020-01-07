@@ -19,6 +19,11 @@
 | 08/07/2019 | [Datadog - Sponsoring](invoices/out/201905_01_datadog.pdf)                         |           |    400.00 |
 | 10/09/2019 | [Celtill - Buffet AH43](invoices/in/201909_01_celtill.pdf)                         |    150.00 |           |
 | 23/10/2019 | [Les saveurs de la terre - buffet AH44](invoices/in/201910_01_saveursterre.pdf)    |    148.50 |           |
+| 19/12/2019 | [Les saveurs de la terre - buffet AH45](invoices/in/201912_01_saveursterre.pdf)    |    148.50 |           |
+| 15/12/2019 | [Sponsoring Coffreo](invoices/out/201912_03_coffreo.pdf)                           |           |    400.00 |
+| 15/12/2019 | [Sponsoring ITNetwork](invoices/out/201912_07_itn.pdf)                             |           |    400.00 |
+| 15/12/2019 | [Sponsoring Human Booster](invoices/out/201912_04_humanbooster.pdf)                |           |    600.00 |
+| 15/12/2019 | [Sponsoring Domraider](invoices/out/201912_05_domraider.pdf)                       |           |    400.00 |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   1617.12 |   3176.36 |
-|            |                                                                          **Solde** |           |**1559.24**|
+|            |                                                                          **Total** |   1765.62 |   3176.36 |
+|            |                                                                          **Solde** |           |**3210.74**|
