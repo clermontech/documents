@@ -14,10 +14,11 @@
 | 07/03/2019 | [Celtill - Buffet AH41](invoices/in/201903_01_celtill.pdf)                         |    150.00 |           |
 | 06/05/2019 | CMMC - Assurance                                                                   |     87.39 |           |
 | 27/05/2019 | Les saveurs de la terre - buffet AH42                                              |    148.50 |           |
-| 05/06/2019 | TablaPizza - buffet workshop rust                                                  |     89.10 |           |
+| 05/06/2019 | [TablaPizza - buffet workshop rust](invoices/in/201906_01_tablapizza.pdf)          |     89.10 |           |
+| 05/06/2019 | [Leclerc - buffet workshop rust](invoices/in/201906_02_leclerc.pdf)                |      6.47 |           |
 | 08/07/2019 | [Datadog - Sponsoring](invoices/out/201905_01_datadog.pdf)                         |           |    400.00 |
 | 10/09/2019 | [Celtill - Buffet AH43](invoices/in/201909_01_celtill.pdf)                         |    150.00 |           |
 | 23/10/2019 | [Les saveurs de la terre - buffet AH44](invoices/in/201910_01_saveursterre.pdf)    |    148.50 |           |
 |            |                                                                                    |           |           |
-|            |                                                                          **Total** |   1610.65 |   3176.36 |
-|            |                                                                          **Solde** |           |**1565.71**|
+|            |                                                                          **Total** |   1617.12 |   3176.36 |
+|            |                                                                          **Solde** |           |**1559.24**|
