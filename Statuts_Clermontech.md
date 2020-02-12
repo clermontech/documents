@@ -13,7 +13,7 @@ Clermont’ech.
 
 ## ARTICLE 2 - BUT OBJET
 
-Cette association a pour objet de fédérer les développeurs auvergnats.
+Cette association a pour objet de fédérer les développeur·se·s auvergnat·e·s.
 
 
 ## ARTICLE 3 - SIEGE SOCIAL
@@ -56,7 +56,7 @@ présentées.
 
 ## ARTICLE 7 - MEMBRES – COTISATIONS
 
-Sont membres actifs ceux qui ont pris l'engagement de s’investir dans
+Sont membres actifs celles et ceux qui ont pris l'engagement de s’investir dans
 l’association. Il n’y a pas de cotisation.
 
 
@@ -67,7 +67,7 @@ La qualité de membre se perd par :
 * La démission ;
 * Le décès ;
 * La radiation prononcée par le bureau pour motif grave,
-l'intéressé ayant été invité par lettre recommandée à fournir des explications
+l'intéressé·e ayant été invité·e par lettre recommandée à fournir des explications
 devant le bureau et/ou par écrit.
 
 
@@ -94,9 +94,9 @@ quelque titre qu'ils soient.
 Elle se réunit chaque année au mois de Février.
 
 Quinze jours au moins avant la date fixée, les membres de l'association sont
-convoqués par les soins du secrétaire. L'ordre du jour figure sur les
-convocations. Le président, assisté des membres du bureau, préside l'assemblée
-et expose la situation morale ou l’activité de l'association. Le trésorier rend
+convoqué·e·s par les soins du secrétaire. L'ordre du jour figure sur les
+convocations. Le président·e, assisté·e des membres du bureau, préside l'assemblée
+et expose la situation morale ou l’activité de l'association. Le trésorier·e rend
 compte de sa gestion et soumet les comptes annuels (bilan, compte de résultat et
 annexe) à l'approbation de l'assemblée. L’assemblée générale fixe le montant des
 cotisations annuelles et du droit d’entrée à verser par les différentes
@@ -114,12 +114,12 @@ membres, y compris absents ou représentés.
 
 ## ARTICLE 12 - ASSEMBLEE GENERALE EXTRAORDINAIRE
 
-Si besoin est, ou sur la demande de la moitié plus un des membres inscrits, le
-président peut convoquer une assemblée générale extraordinaire, suivant les
+Si besoin est, ou sur la demande de la moitié plus un des membres inscrit·e·s, le
+président·e peut convoquer une assemblée générale extraordinaire, suivant les
 modalités prévues aux présents statuts et uniquement pour modification des
 statuts ou la dissolution ou pour des actes portant sur des immeubles. Les
 modalités de convocation sont les mêmes que pour l’assemblée générale ordinaire.
-Les délibérations sont prises à la majorité des membres présents ou des
+Les délibérations sont prises à la majorité des membres présent·e·s ou des
 suffrages exprimés.
 
 
@@ -127,22 +127,22 @@ suffrages exprimés.
 
 Les membres de l'association élisent parmi les membres, un bureau composé de :
 
-* Un président ;
-* Un vice-président ;
-* Un secrétaire et un secrétaire suppléant ;
-* Un trésorier et un trésorier suppléant.
+* Un·e président·e ;
+* Un·e vice-président·e ;
+* Un·e secrétaire et un·e secrétaire suppléant·e ;
+* Un·e trésorier·e et un·e trésorier·e suppléant·e.
 
 
 ## ARTICLE 14 – LE CONSEIL DE SURVEILLANCE
 
 L'association est pourvue d'un conseil de surveillance composé exclusivement
-d'anciens membres du bureau, élus pour deux années par l'assemblée générale.
+d'ancien·e·s membres du bureau, élu·e·s pour deux années par l'assemblée générale.
 
 Les membres du conseil de surveillance sont rééligibles.
 
 Le conseil de surveillance excerce un pouvoir de conseil auprès de l'association.
 
-Tout membre du conseil de surveillance reste adhérent de l'association.
+Tout membre du conseil de surveillance reste adhérent·e de l'association.
 
 Le nombre total des votes des membres du conseil de surveillance en assemblée
 générale ne peux dépasser celui des membres du bureau de l'association.
