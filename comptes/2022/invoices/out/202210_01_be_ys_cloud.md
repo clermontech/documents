@@ -1,4 +1,4 @@
-<p class="invoice-number">Facture n°202210_01_be_ys_shared_services</p>
+<p class="invoice-number">Facture n°202210_01_be_ys_cloud</p>
 
 <img class="left" width="70px" src="http://clermontech.org/images/clermontech_logo_200px.png" alt="Clermontech Logo" />
 
@@ -11,13 +11,13 @@
 </p>
 
 <p class="address-client">
-<span class="address-title">be ys Shared Services</span>
+<span class="address-title">be ys Cloud</span>
 <span class="address-street">46 Rue du ressort</span>
 <span class="address-city">63100 Clermont-Ferrand</span>
 </p>
 
 <h1 class="invoice-title">
-Facture n°202210_01_be_ys_shared_services 28 Octobre 2022
+Facture n°202210_01_be_ys_cloud 28 Octobre 2022
 </h1>
 
 ## Prestation et Montant
