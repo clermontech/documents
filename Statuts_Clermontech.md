@@ -18,7 +18,7 @@ Cette association a pour objet de fédérer les développeurs auvergnats.
 
 ## ARTICLE 3 - SIEGE SOCIAL
 
-Le siège social est fixé au : **19 rue Rabelais 63100 CLERMONT-FERRAND**.
+Le siège social est fixé au : **31 rue des Neuf Soleils 63100 CLERMONT-FERRAND**.
 
 Il pourra être transféré par simple décision du bureau.
 
@@ -32,18 +32,20 @@ La durée de l’association est illimitée.
 
 L'association se compose de membres actifs suivants :
 
-* Président : Manuel Raynaud
-* Vice président : Karim Bogtob
+* Président : Claude Dioudonnat
+* Vice président : Justine Bachelard
 * Trésorier : Pierre Tachoire
-* Trésorier suppléant : Claude Dioudonnat
-* Secrétaire : Aymeric Brisse
-* Secrétaire suppléant : Julien Muetton
+* Secrétaire : Florian Forestier
 
 Ainsi que des membres du conseil de surveillance suivants :
 
+* Karim Bogtob
+* Aymeric Brisse
 * William Durand
 * Camille Loiseau
 * Julien Maupetit
+* Julien Muetton
+* Manuel Raynaud
 * Romain Tartière
 
 
@@ -171,4 +173,5 @@ la dissolution.
 - *Modifié le 6 Novembre 2014 à Clermont-Ferrand.*
 - *Modifié le 30 Mai 2016 à Clermont-Ferrand.*
 - *Modifié le 28 Mars 2018 à Clermont-Ferrand.*
+- *Modifié le 15 Novembre 2022 à Clermont-Ferrand.*
 
