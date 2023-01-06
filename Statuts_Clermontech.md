@@ -18,7 +18,7 @@ Cette association a pour objet de fédérer les développeurs auvergnats.
 
 ## ARTICLE 3 - SIEGE SOCIAL
 
-Le siège social est fixé au : **31 rue des Neuf Soleils 63100 CLERMONT-FERRAND**.
+Le siège social est fixé au : **31 rue des Neuf Soleils 63000 CLERMONT-FERRAND**.
 
 Il pourra être transféré par simple décision du bureau.
 
