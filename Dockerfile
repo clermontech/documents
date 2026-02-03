@@ -11,4 +11,6 @@ RUN cd /root && \
 
 RUN fc-cache -f -v
 
-ENTRYPOINT ["md2pdf", "--css=/root/clermontech-moucss/Clermontech.css"]
+WORKDIR /wrk
+
+ENTRYPOINT ["/app/.venv/bin/md2pdf", "--css=/root/clermontech-moucss/Clermontech.css"]
